@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.10)  15 JAN 2018 11:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.24)  15 FEB 2018 17:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **"borrador paper.tex"
 (./borrador paper.tex
 LaTeX2e <2016/02/01>
-Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+Babel <3.9q> and hyphenation patterns for 3 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
@@ -466,18 +466,18 @@ LaTeX Info: Redefining \addtolength on input line 81.
 ) (./borrador paper.aux)
 \openout1 = `"borrador paper.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
  (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count126
@@ -595,96 +595,80 @@ LaTeX Info: Redefining \selectfont on input line 126.
 )
 ABD: EveryShipout initializing macros
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 14.
+(Font)              <14.4> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 14.
+(Font)              <7> on input line 15.
+
+Overfull \hbox (10.79404pt too wide) in paragraph at lines 25--25
+\OT1/cmr/m/n/6 TFEA.ChP 
+ []
 
 
-LaTeX Warning: Citation `Wasserman' on page 1 undefined on input line 23.
+Overfull \hbox (10.79404pt too wide) in paragraph at lines 25--25
+\OT1/cmr/m/n/6 TFEA.ChP 
+ []
 
 
-LaTeX Warning: Citation `ENCODE' on page 1 undefined on input line 23.
+Overfull \hbox (10.79404pt too wide) in paragraph at lines 25--25
+\OT1/cmr/m/n/6 TFEA.ChP 
+ []
 
 
-LaTeX Warning: Citation `GEO1' on page 1 undefined on input line 23.
+Overfull \hbox (10.79404pt too wide) in paragraph at lines 25--25
+\OT1/cmr/m/n/6 TFEA.ChP 
+ []
 
+[1
 
-LaTeX Warning: Citation `GEO2' on page 1 undefined on input line 23.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 26.
+LaTeX Warning: Marginpar on page 2 moved.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 31.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
- [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-
-LaTeX Warning: Citation `GSEA1' on page 2 undefined on input line 28.
 
 
-LaTeX Warning: Citation `GSEA2' on page 2 undefined on input line 28.
+LaTeX Warning: Marginpar on page 2 moved.
 
-<superclases.png, id=14, 386.19281pt x 557.83406pt>
+<superclases.png, id=15, 386.19281pt x 557.83406pt>
 File: superclases.png Graphic file (type png)
  <use superclases.png>
-Package pdftex.def Info: superclases.png used on input line 38.
+Package pdftex.def Info: superclases.png used on input line 43.
 (pdftex.def)             Requested size: 226.48395pt x 327.14449pt.
-
-
-LaTeX Warning: Citation `TFcensus' on page 2 undefined on input line 42.
-
-
-LaTeX Warning: Citation `DBD1' on page 2 undefined on input line 42.
-
-
-LaTeX Warning: Citation `DBD2' on page 2 undefined on input line 42.
-
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 
-Underfull \hbox (badness 2221) in paragraph at lines 42--45
+Underfull \hbox (badness 2221) in paragraph at lines 47--50
 \OT1/cmr/m/n/12 which guar-an-tees a stan-dard pro-
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 42--45
+Underfull \hbox (badness 1400) in paragraph at lines 47--50
 \OT1/cmr/m/n/12 in-for-ma-tion from ChIP-Seq ex-per-i-
  []
 
 
-Underfull \hbox (badness 1783) in paragraph at lines 42--45
+Underfull \hbox (badness 1783) in paragraph at lines 47--50
 \OT1/cmr/m/n/12 tions of the amount of tran-scrip-
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 42--45
+Underfull \hbox (badness 1796) in paragraph at lines 47--50
 \OT1/cmr/m/n/12 range from 1,391[[]] -manually cu-
  []
 
-
-Underfull \hbox (badness 1184) in paragraph at lines 42--45
-\OT1/cmr/m/n/12 DBD[[]][[]] -, the 157 tran-scrip-tion
- []
-
-
-LaTeX Warning: Citation `KnownGene' on page 2 undefined on input line 47.
-
+[2 <./superclases.png>]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-
-LaTeX Warning: Citation `EncodeDHS1' on page 2 undefined on input line 47.
-
-
-LaTeX Warning: Citation `EncodeDHS2' on page 2 undefined on input line 47.
-
-[2 <./superclases.png>]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
@@ -695,7 +679,7 @@ Missing character: There is no ì in font cmr12!
 File: graf-dhs.png Graphic file (type png)
 
 <use graf-dhs.png>
-Package pdftex.def Info: graf-dhs.png used on input line 56.
+Package pdftex.def Info: graf-dhs.png used on input line 61.
 (pdftex.def)             Requested size: 362.37569pt x 128.49963pt.
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
@@ -743,7 +727,7 @@ Missing character: There is no ù in font cmr12!
 File: graf-TFBS_building.png Graphic file (type png)
 
 <use graf-TFBS_building.png>
-Package pdftex.def Info: graf-TFBS_building.png used on input line 63.
+Package pdftex.def Info: graf-TFBS_building.png used on input line 68.
 (pdftex.def)             Requested size: 203.83417pt x 207.2839pt.
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
@@ -805,39 +789,33 @@ Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
- [3 <./graf-dhs.png (PNG copy)> <./graf-TFBS_building.png (PNG copy)>] <graf-tf
-ea1.png, id=27, 487.8225pt x 374.90062pt>
-File: graf-tfea1.png Graphic file (type png)
-
-<use graf-tfea1.png>
-Package pdftex.def Info: graf-tfea1.png used on input line 80.
-(pdftex.def)             Requested size: 226.48395pt x 174.05812pt.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 82.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 82.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 82.
-
-
-LaTeX Warning: Citation `GSEA1' on page 4 undefined on input line 86.
-
-
-LaTeX Warning: Citation `GSEA2' on page 4 undefined on input line 86.
-
-<graf-tfea2.png, id=28, 1186.4325pt x 928.46875pt>
-File: graf-tfea2.png Graphic file (type png)
- <use graf-tfea2.png>
-Package pdftex.def Info: graf-tfea2.png used on input line 90.
-(pdftex.def)             Requested size: 452.9679pt x 354.47937pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<graf-tfea3.png, id=29, 571.38469pt x 412.54124pt>
+[3 <./graf-dhs.png (PNG copy)>]
+<graf-tfea1.png, id=27, 487.8225pt x 374.90062pt>
+File: graf-tfea1.png Graphic file (type png)
+ <use graf-tfea1.png>
+Package pdftex.def Info: graf-tfea1.png used on input line 85.
+(pdftex.def)             Requested size: 226.48395pt x 174.05812pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 87.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 87.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 87.
+ [4 <./graf-TFBS_building.png (PNG copy)> <./graf-tfea1.png (PNG copy)>]
+<graf-tfea2.png, id=32, 1186.4325pt x 928.46875pt>
+File: graf-tfea2.png Graphic file (type png)
+ <use graf-tfea2.png>
+Package pdftex.def Info: graf-tfea2.png used on input line 95.
+(pdftex.def)             Requested size: 452.9679pt x 354.47937pt.
+
+<graf-tfea3.png, id=33, 571.38469pt x 412.54124pt>
 File: graf-tfea3.png Graphic file (type png)
  <use graf-tfea3.png>
-Package pdftex.def Info: graf-tfea3.png used on input line 96.
+Package pdftex.def Info: graf-tfea3.png used on input line 101.
 (pdftex.def)             Requested size: 249.13371pt x 179.87575pt.
 Missing character: There is no Œ in font cmr12!
 Missing character: There is no ± in font cmr12!
@@ -859,14 +837,7 @@ Missing character: There is no ≥ in font cmr12!
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: Citation `opossum' on page 4 undefined on input line 104.
-
-[4 <./graf-tfea1.png (PNG copy)>]
-
-LaTeX Warning: Text page 5 contains only floats.
-
-[5 <./graf-tfea2.png> <./graf-tfea3.png>]
+[5 <./graf-tfea2.png>]
 Missing character: There is no Œ in font cmr12!
 Missing character: There is no ± in font cmr12!
 Missing character: There is no ‚ in font cmr12!
@@ -890,11 +861,11 @@ Missing character: There is no ô in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-
-<graf-op1.png, id=39, 607.26875pt x 431.6125pt>
+ <graf-op1.png, id=39, 607.26875pt x 431.6125pt>
 File: graf-op1.png Graphic file (type png)
- <use graf-op1.png>
-Package pdftex.def Info: graf-op1.png used on input line 127.
+
+<use graf-op1.png>
+Package pdftex.def Info: graf-op1.png used on input line 132.
 (pdftex.def)             Requested size: 249.13371pt x 177.06764pt.
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
@@ -903,24 +874,27 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 
-Underfull \hbox (badness 6204) in paragraph at lines 129--129
+Underfull \hbox (badness 6204) in paragraph at lines 134--134
 [][]\OT1/cmr/m/n/12 : |For down-regulated
  []
 
 
-Underfull \hbox (badness 1552) in paragraph at lines 129--129
+Underfull \hbox (badness 1552) in paragraph at lines 134--134
 \OT1/cmr/m/n/12 genes, af-ter ad-just-ing p-values,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--129
+Underfull \hbox (badness 10000) in paragraph at lines 134--134
 \OT1/cmr/m/n/12 sig-nif-i-cantly en-riched, while
  []
 
 
-Underfull \hbox (badness 5802) in paragraph at lines 129--129
+Underfull \hbox (badness 5802) in paragraph at lines 134--134
 \OT1/cmr/m/n/12 TFEA.ChIP de-tects sig-nif-i-cant
  []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 Missing character: There is no Œ in font cmr12!
 Missing character: There is no ∫ in font cmr12!
@@ -939,7 +913,6 @@ Missing character: There is no ô in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-[6 <./graf-op1.png (PNG copy)>]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
@@ -949,18 +922,14 @@ Missing character: There is no ì in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-
-<graf-op2.png, id=43, 1044.90375pt x 437.635pt>
+[6 <./graf-tfea3.png>] <graf-op2.png, id=43, 1044.90375pt x 437.635pt>
 File: graf-op2.png Graphic file (type png)
- <use graf-op2.png>
-Package pdftex.def Info: graf-op2.png used on input line 141.
+
+<use graf-op2.png>
+Package pdftex.def Info: graf-op2.png used on input line 146.
 (pdftex.def)             Requested size: 452.9679pt x 189.71526pt.
 Missing character: There is no Œ in font cmbx12!
 Missing character: There is no ± in font cmbx12!
-
-
-LaTeX Warning: Citation `geneReg' on page 7 undefined on input line 146.
-
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
@@ -968,24 +937,25 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--150
+Underfull \hbox (badness 10000) in paragraph at lines 151--155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--150
+Underfull \hbox (badness 10000) in paragraph at lines 151--155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--150
+Underfull \hbox (badness 10000) in paragraph at lines 151--155
 
  []
 
-<graf-op3.png, id=44, 847.165pt x 553.06625pt>
+[7 <./graf-op1.png (PNG copy)> <./graf-op2.png (PNG copy)>]
+<graf-op3.png, id=48, 847.165pt x 553.06625pt>
 File: graf-op3.png Graphic file (type png)
  <use graf-op3.png>
-Package pdftex.def Info: graf-op3.png used on input line 153.
+Package pdftex.def Info: graf-op3.png used on input line 158.
 (pdftex.def)             Requested size: 294.42636pt x 192.20895pt.
 Missing character: There is no Œ in font cmr12!
 Missing character: There is no ± in font cmr12!
@@ -1000,97 +970,65 @@ Missing character: There is no ± in font cmr12!
 Missing character: There is no Œ in font cmr12!
 Missing character: There is no ≥ in font cmr12!
 
-Underfull \hbox (badness 1655) in paragraph at lines 156--156
+Underfull \hbox (badness 1655) in paragraph at lines 161--161
 \OT1/cmr/m/n/12 per-i-ments and the STAT2
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 156--156
+Underfull \hbox (badness 1365) in paragraph at lines 161--161
 \OT1/cmr/m/n/12 ones were done af-ter IFN
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 156--156
+Underfull \hbox (badness 1400) in paragraph at lines 161--161
 \OT1/cmr/m/n/12 ad-di-tion while the rest of
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-[7 <./graf-op2.png (PNG copy)>]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
+[8 <./graf-op3.png (PNG copy)>] (./borrador paper.bbl [9]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
 
+Underfull \hbox (badness 10000) in paragraph at lines 116--119
+[]\OT1/cmr/m/n/12 Marc Carl-son and Bio-con-duc-tor Pack-age Main-tainer.
+ []
 
-LaTeX Warning: Citation `bioconductor' on page 8 undefined on input line 174.
-
-
-LaTeX Warning: Citation `GRanges' on page 8 undefined on input line 176.
-
-
-LaTeX Warning: Citation `biomart1' on page 8 undefined on input line 177.
-
-
-LaTeX Warning: Citation `biomart2' on page 8 undefined on input line 177.
-
-
-LaTeX Warning: Citation `TxDb.knownGene' on page 8 undefined on input line 178.
-
-
-
-LaTeX Warning: Citation `plotly' on page 8 undefined on input line 183.
-
-
-LaTeX Warning: Citation `dplyr' on page 8 undefined on input line 184.
-
-
-LaTeX Warning: Citation `knitr' on page 8 undefined on input line 185.
-
-
-LaTeX Warning: Citation `rmarkdown' on page 8 undefined on input line 186.
-
-
-LaTeX Warning: Citation `S4Vectors' on page 8 undefined on input line 187.
-
-
-LaTeX Warning: Citation `scales' on page 8 undefined on input line 188.
-
-No file "borrador paper".bbl.
-[8 <./graf-op3.png (PNG copy)>] (./borrador paper.tdo)
+Missing character: There is no √ in font cmr12!
+Missing character: There is no º in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ® in font cmr12!
+) (./borrador paper.tdo [10])
 \tf@tdo=\write4
 \openout4 = `"borrador paper.tdo"'.
 
- [9]
-(./borrador paper.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+ [11] (./borrador paper.aux) ) 
 Here is how much of TeX's memory you used:
- 12908 strings out of 493029
- 258099 string characters out of 6136234
- 304470 words of memory out of 5000000
- 16178 multiletter control sequences out of 15000+600000
- 9763 words of font info for 34 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 62i,9n,80p,1739b,702s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmti12.pfb>
-Output written on "borrador paper.pdf" (9 pages, 1601864 bytes).
+ 12936 strings out of 494953
+ 258699 string characters out of 6180977
+ 312304 words of memory out of 5000000
+ 15953 multiletter control sequences out of 15000+600000
+ 9456 words of font info for 33 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 62i,9n,80p,2381b,916s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "borrador paper.pdf" (11 pages, 1622229 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 53 compressed objects within 1 object stream
+ 91 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  58 words of extra memory for PDF output out of 10000 (max. 10000000)
 

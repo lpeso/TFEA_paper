@@ -1,0 +1,61 @@
+\begin{thebibliography}{1}
+
+\bibitem{Wasserman}
+Wasserman W, Sandelin A.
+\newblock Applied bioinformatics for the identification of regulatory elements.
+\newblock Nature Reviews Genetics. 2004;5:276.
+\newblock doi:{10.1038/nrg1315}.
+
+\bibitem{ENCODE}
+Consortium EP.
+\newblock An integrated encyclopedia of DNA elements in the human genome.
+\newblock Nature. 2004;489:57--74.
+\newblock doi:{10.1038/nature11247}.
+
+\bibitem{GEO1}
+Edgar R, Domrachev M, Lash AE.
+\newblock Gene Expression Omnibus: {NCBI} gene expression and hybridization
+  array data repository.
+\newblock Nucleic Acids Research. 2002;30:207--210.
+
+\bibitem{GEO2}
+Barrett T, et~al.
+\newblock {NCBI GEO}: archive for functional genomics data sets - update.
+\newblock Nucleic Acids Research. 2013;41(D1):D991--D995.
+\newblock doi:{10.1093/nar/gks1193}.
+
+\bibitem{Kwon2012}
+Kwon AT, Arenillas DJ, {Worsley Hunt} R, Wasserman WW.
+\newblock {oPOSSUM-3: advanced analysis of regulatory motif over-representation
+  across genes or ChIP-Seq datasets.}
+\newblock G3 (Bethesda, Md). 2012;2(9):987--1002.
+\newblock doi:{10.1534/g3.112.003202}.
+
+\bibitem{TFcensus}
+Vaquerizas JM, Kummerfeld SK, Teichmann SA, Luscombe NM.
+\newblock A census of human transcription factors: function, expression and
+  evolution.
+\newblock Nature Reviews Genetics. 2009;10:252--263.
+\newblock doi:{10.1038/nrg2538}.
+
+\bibitem{Lambert2018}
+Lambert SA, Jolma A, Campitelli LF, Das PK, Yin Y, Albu M, et~al.
+\newblock {The Human Transcription Factors}.
+\newblock Cell. 2018;172(4):650--665.
+\newblock doi:{10.1016/j.cell.2018.01.029}.
+
+\bibitem{GSEA1}
+Subramanian A, Tamayo P, et~al.
+\newblock Gene set enrichment analysis: {A} knowledge-based approach for
+  interpreting genome-wide expression profiles.
+\newblock PNAS. 2005;102(43):15545--15550.
+\newblock doi:{10.1073/pnas.0506580102}.
+
+\bibitem{GSEA2}
+Mootha VK, et~al.
+\newblock {PGC}-1alpha-responsive genes involved in oxidative phosphorylation
+  are coordinately downregulated in human diabetes.
+\newblock Nature Genetics. 2003;34:267--273.
+\newblock doi:{10.1038/ng1180}.
+
+\end{thebibliography}

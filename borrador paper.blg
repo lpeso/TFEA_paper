@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: borrador paper.aux
+The style file: unsrt.bst
+Database file #1: borrador_paper.bib
+You've used 26 entries,
+            1791 wiz_defined-function locations,
+            598 strings with 7675 characters,
+and the built_in function-call counts, 5741 in all, are:
+= -- 466
+> -- 318
+< -- 0
++ -- 116
+- -- 90
+* -- 434
+:= -- 958
+add.period$ -- 71
+call.type$ -- 26
+change.case$ -- 19
+chr.to.int$ -- 0
+cite$ -- 26
+duplicate$ -- 219
+empty$ -- 549
+format.name$ -- 90
+if$ -- 1240
+int.to.chr$ -- 0
+int.to.str$ -- 26
+missing$ -- 19
+newline$ -- 126
+num.names$ -- 26
+pop$ -- 47
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 86
+stack$ -- 0
+substring$ -- 412
+swap$ -- 33
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 48
+width$ -- 28
+write$ -- 267

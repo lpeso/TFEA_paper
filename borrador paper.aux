@@ -3,39 +3,52 @@
 \citation{ENCODE}
 \citation{GEO1}
 \citation{GEO2}
+\citation{Kwon2012}
+\@writefile{tdo}{\contentsline {todo}{Include here comparison with Opossum and results.}{1}}
+\pgfsyspdfmark {pgfid1}{14587098}{28316842}
+\pgfsyspdfmark {pgfid4}{36207846}{28353809}
+\pgfsyspdfmark {pgfid5}{37338342}{28085112}
 \@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}}
 \citation{GSEA1}
 \citation{GSEA2}
 \citation{TFcensus}
 \citation{DBD1}
 \citation{DBD2}
+\@writefile{tdo}{\contentsline {todo}{Indicate that the factors found by TFEA.ChP are the ones expected according to the experimental manipulations in each dataset.}{2}}
+\pgfsyspdfmark {pgfid6}{12868764}{47261408}
+\pgfsyspdfmark {pgfid9}{36207846}{47276153}
+\pgfsyspdfmark {pgfid10}{37338342}{47007456}
+\@writefile{tdo}{\contentsline {todo}{I would move the following paragraphs to results.}{2}}
+\pgfsyspdfmark {pgfid11}{5891346}{46311136}
+\pgfsyspdfmark {pgfid14}{36207846}{37253513}
+\pgfsyspdfmark {pgfid15}{37338342}{36984816}
+\@writefile{tdo}{\contentsline {todo}{Adding mention to web implementation if done.}{2}}
+\pgfsyspdfmark {pgfid16}{28968608}{34023172}
+\pgfsyspdfmark {pgfid19}{36207846}{33260221}
+\pgfsyspdfmark {pgfid20}{37338342}{32991524}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Building our TFBS database}{2}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Structural diversity according to DNA binding domains of the 333 transcription factors included in the TFBS database.}}{2}}
 \citation{KnownGene}
 \citation{EncodeDHS1}
 \citation{EncodeDHS2}
-\@writefile{tdo}{\contentsline {todo}{Adding mention to web implementation if done.}{2}}
-\pgfsyspdfmark {pgfid1}{28968608}{39393467}
-\pgfsyspdfmark {pgfid4}{36207846}{39408212}
-\pgfsyspdfmark {pgfid5}{37338342}{39139515}
-\@writefile{toc}{\contentsline {section}{\numberline {2}Building our TFBS database}{2}}
-\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Structural diversity according to DNA binding domains of the 333 transcription factors included in the TFBS database.}}{2}}
 \@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Building a DHS database. From Encode’s Master DNaseI HS database, that gathers all DHSs found in several cell lines, we selected those DHSs that are 1Kb or closer to a gene according to the gene’s location on UCSC’s Known Gene database. DHS further than 1Kb from any gene are discarded to avoid highly uncertain links. In this illustration, both DHS1 and DHS2 would be assign to gene “X”, and DHS4 to gene “Y”, while DHS3 would be discarded.}}{3}}
-\newlabel{SC@1}{{2}{3}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Building the TFBS database. For every peak in a ChIP-Seq dataset is tested whether it overlaps any of the DHSs located close to a gene. If the result is positive, the gene corresponding to said DHS –gene “X” in this illustration– will be assigned to the ChIP-Seq experiment, if its negative, that peak will be discarded. The ChIP-Seq dataset “Y” has three peaks that overlap DHS1 and DHS2, so the Entrez ID of gene “X” would be associated to the ChIP-Seq “Y”.}}{3}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Analyzing TF enrichment with TFEA.ChIP}{3}}
 \citation{GSEA1}
 \citation{GSEA2}
-\citation{opossum}
-\@writefile{toc}{\contentsline {section}{\numberline {3}Analyzing TF enrichment with TFEA.ChIP}{4}}
+\newlabel{SC@1}{{2}{4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Building the TFBS database. For every peak in a ChIP-Seq dataset is tested whether it overlaps any of the DHSs located close to a gene. If the result is positive, the gene corresponding to said DHS –gene “X” in this illustration– will be assigned to the ChIP-Seq experiment, if its negative, that peak will be discarded. The ChIP-Seq dataset “Y” has three peaks that overlap DHS1 and DHS2, so the Entrez ID of gene “X” would be associated to the ChIP-Seq “Y”.}}{4}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Association analysis}{4}}
 \newlabel{SC@2}{{3.1}{4}}
 \@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Association analysis performed on up-regulated vs un-responsive genes in neutrophils after TNF addition. As expected, the main enriched TF -NFK$\beta $ and RELA- are related with inflammatory processes.}}{4}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.2}GSEA-like analysis}{4}}
+\citation{opossum}
 \@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces GSEA-like analysis of gene expression on HUVEC exposed to hypoxia vs normoxia at several times. As is shown in the figure, HIF-mediated response to hypoxia starts at 4h, and reaches it's peak at 8h, when most of it's targets are among up-regulated genes. The same pattern of behavior can be observed in repressors, that reach their maximum enrichment among down-regulated genes between 8 and 16h after exposure.}}{5}}
-\newlabel{SC@3}{{3.2}{5}}
-\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces plot of the Running Enrichment Score in an RNA-seq experiment on HUVEC cells supplemented with VEGF for 4 days for STAT1, STAT2 and STAT3 ChIP-Seqs. The ChIP-Seqs wgEncodeEH000664 and wgEncodeEH000665 were done with a IFNα treatment while the rest of STAT1 and STAT2 ChIPs were done using IFNγ. Since IFNα is a known angiogenesis inhibitor, the targets of this two ChIPs are significantly different than those of the ChIPs done with IFNγ, and in this case, amongst the down-regulated genes.}}{5}}
-\@writefile{toc}{\contentsline {section}{\numberline {4}Comparison with similar software: oPOSSUM's single site analysis}{6}}
-\newlabel{SC@4}{{4}{6}}
-\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces For down-regulated genes, after adjusting p-values, oPOSSUM doesn’t find any TF significantly enriched, while TFEA.ChIP detects significant enrichment in 111 different TFs, being the most important E2F4, E2F7, SIN3A, MXI1, and E2F1.}}{6}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Comparison with similar software: oPOSSUM's single site analysis}{5}}
+\newlabel{SC@3}{{3.2}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces plot of the Running Enrichment Score in an RNA-seq experiment on HUVEC cells supplemented with VEGF for 4 days for STAT1, STAT2 and STAT3 ChIP-Seqs. The ChIP-Seqs wgEncodeEH000664 and wgEncodeEH000665 were done with a IFNα treatment while the rest of STAT1 and STAT2 ChIPs were done using IFNγ. Since IFNα is a known angiogenesis inhibitor, the targets of this two ChIPs are significantly different than those of the ChIPs done with IFNγ, and in this case, amongst the down-regulated genes.}}{6}}
 \citation{geneReg}
+\newlabel{SC@4}{{4}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces For down-regulated genes, after adjusting p-values, oPOSSUM doesn’t find any TF significantly enriched, while TFEA.ChIP detects significant enrichment in 111 different TFs, being the most important E2F4, E2F7, SIN3A, MXI1, and E2F1.}}{7}}
 \@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Enrichment analysis in LVNC. TFEA.ChIP is able to find several enriched TF. Some of the most important are HIF factors (in red) along with SMAD2, SMAD4 (cyan) and E2F4 (yellow), while SIN3A only has one ChIP-Seq experiment among those highly enriched.}}{7}}
 \citation{bioconductor}
 \citation{GRanges}
@@ -47,12 +60,38 @@
 \citation{knitr}
 \citation{rmarkdown}
 \citation{S4Vectors}
-\citation{scales}
-\bibstyle{unsrt}
-\bibdata{borrador_paper}
 \newlabel{SC@5}{{4}{8}}
 \@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Validation dataset GSE67848, hESC + IFNα, day 15, upregulated genes. Two of the STAT1 ChIP-Seq experiments and the STAT2 ones were done after IFNα addition while the rest of STAT1 ChIPs were treated with IFNγ. In both association analysis and GSEA-like analysis, TFEA.ChIP is able to detect conditional TF enrichment.}}{8}}
 \newlabel{fig6}{{9}{8}}
 \@writefile{toc}{\contentsline {section}{\numberline {5}Dependencies and requirements}{8}}
+\citation{scales}
+\bibstyle{unsrt}
+\bibdata{borrador_paper}
+\bibcite{Wasserman}{1}
+\bibcite{ENCODE}{2}
+\bibcite{GEO1}{3}
+\bibcite{GEO2}{4}
+\bibcite{Kwon2012}{5}
+\bibcite{GSEA1}{6}
+\bibcite{GSEA2}{7}
+\bibcite{TFcensus}{8}
+\bibcite{DBD1}{9}
+\bibcite{DBD2}{10}
+\bibcite{KnownGene}{11}
+\bibcite{EncodeDHS1}{12}
+\bibcite{EncodeDHS2}{13}
 \@writefile{tdo}{\contentsline {todo}{R version and web implementation}{9}}
-\pgfsyspdfmark {pgfid6}{19562754}{49035795}
+\pgfsyspdfmark {pgfid21}{19562754}{44653063}
+\bibcite{opossum}{14}
+\bibcite{geneReg}{15}
+\bibcite{bioconductor}{16}
+\bibcite{GRanges}{17}
+\bibcite{biomart1}{18}
+\bibcite{biomart2}{19}
+\bibcite{TxDb.knownGene}{20}
+\bibcite{plotly}{21}
+\bibcite{dplyr}{22}
+\bibcite{knitr}{23}
+\bibcite{rmarkdown}{24}
+\bibcite{S4Vectors}{25}
+\bibcite{scales}{26}

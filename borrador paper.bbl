@@ -1,0 +1,148 @@
+\begin{thebibliography}{10}
+
+\bibitem{Wasserman}
+WW~Wasserman and A~Sandelin.
+\newblock Applied bioinformatics for the identification of regulatory elements.
+\newblock {\em Nature Reviews Genetics}, 5:276, 2004.
+
+\bibitem{ENCODE}
+ENCODE~Project Consortium.
+\newblock An integrated encyclopedia of dna elements in the human genome.
+\newblock {\em Nature}, 489:57--74, 2004.
+
+\bibitem{GEO1}
+Ron Edgar, Michael Domrachev, and Alex~E. Lash.
+\newblock Gene expression omnibus: {NCBI} gene expression and hybridization
+  array data repository.
+\newblock {\em Nucleic Acids Research}, 30:207--210, 2002.
+
+\bibitem{GEO2}
+Tanya Barrett et~al.
+\newblock {NCBI GEO}: archive for functional genomics data sets - update.
+\newblock {\em Nucleic Acids Research}, 41(D1):D991--D995, 2013.
+
+\bibitem{Kwon2012}
+Andrew~T Kwon, David~J Arenillas, Rebecca {Worsley Hunt}, and Wyeth~W
+  Wasserman.
+\newblock {oPOSSUM-3: advanced analysis of regulatory motif over-representation
+  across genes or ChIP-Seq datasets.}
+\newblock {\em G3 (Bethesda, Md.)}, 2(9):987--1002, 2012.
+
+\bibitem{GSEA1}
+Aravind Subramanian, Pablo Tamayo, et~al.
+\newblock Gene set enrichment analysis: {A} knowledge-based approach for
+  interpreting genome-wide expression profiles.
+\newblock {\em PNAS}, 102(43):15545--15550, 2005.
+
+\bibitem{GSEA2}
+Vamsi~K Mootha et~al.
+\newblock {PGC}-1alpha-responsive genes involved in oxidative phosphorylation
+  are coordinately downregulated in human diabetes.
+\newblock {\em Nature Genetics}, 34:267--273, 2003.
+
+\bibitem{TFcensus}
+Juan~M. Vaquerizas, Sarah~K. Kummerfeld, Sarah~A. Teichmann, and Nicholas~M.
+  Luscombe.
+\newblock A census of human transcription factors: function, expression and
+  evolution.
+\newblock {\em Nature Reviews Genetics}, 10:252--263, 2009.
+
+\bibitem{DBD1}
+Sarah~K. Kummerfeld and Sarah~A. Teichmann.
+\newblock {DBD}: a transcription factor prediction database.
+\newblock {\em Nucleic Acids Research}, 34(suppl 1):74--81, 2006.
+
+\bibitem{DBD2}
+Derek Wilson, Varodom Charoensawan, Sarah~K. Kummerfeld, and Sarah~A.
+  Teichmann.
+\newblock {DBD} - taxonomically broad transcription factor predictions: new
+  content and functionality.
+\newblock {\em Nucleic Acids Research}, 36(suppl 1):88--92, 2008.
+
+\bibitem{KnownGene}
+Fan Hsu, W.~James Kent, Hiram Clawson, Robert~M. Kuhn, Mark Diekhans, and David
+  Haussler.
+\newblock The ucsc known genes.
+\newblock {\em Bioinformatics}, 22(9):1036--1046, 2006.
+
+\bibitem{EncodeDHS1}
+Sam John et~al.
+\newblock Chromatin accessibility pre-determines glucocorticoid receptor
+  binding patterns.
+\newblock {\em Nature Genetics}, 43:264--268, 2011.
+
+\bibitem{EncodeDHS2}
+Robert~E. Thurman et~al.
+\newblock The accessible chromatin landscape of the human genome.
+\newblock {\em Nature}, 489:75--82, 2012.
+
+\bibitem{opossum}
+Andrew~T. Kwon, David~J. Arenillas, Rebecca~Worsley Hunt, and Wyeth~W.
+  Wasserman.
+\newblock {oPOSSUM-3: Advanced Analysis of Regulatory Motif Over-Representation
+  Across Genes or ChIP-Seq Datasets}.
+\newblock {\em G3: Genes, Genomes, Genetics}, 2(9):987--1002, 2012.
+
+\bibitem{geneReg}
+Abhijeet~Rajendra Sonawane.
+\newblock Understanding tissue-specific gene regulation.
+\newblock {\em Cell Reports}, 21(4):1077–1088, 2017.
+
+\bibitem{bioconductor}
+W.~Huber et~al.
+\newblock {O}rchestrating high-throughput genomic analysis with {B}ioconductor.
+\newblock {\em Nature Methods}, 12(2):115--121, 2015.
+
+\bibitem{GRanges}
+Michael Lawrence, Wolfgang Huber, Herv\'e Pag\`es, Patrick Aboyoun, Marc
+  Carlson, Robert Gentleman, Martin Morgan, and Vincent Carey.
+\newblock Software for computing and annotating genomic ranges.
+\newblock {\em {PLoS} Computational Biology}, 9, 2013.
+
+\bibitem{biomart1}
+Steffen Durinck, Paul~T. Spellman, Ewan Birney, and Wolfgang Huber.
+\newblock Mapping identifiers for the integration of genomic datasets with the
+  r/bioconductor package biomart.
+\newblock {\em Nature Protocols}, 4:1184--1191, 2009.
+
+\bibitem{biomart2}
+Steffen Durinck, Yves Moreau, Arek Kasprzyk, Sean Davis, Bart {De Moor}, Alvis
+  Brazma, and Wolfgang Huber.
+\newblock Biomart and bioconductor: a powerful link between biological
+  databases and microarray data analysis.
+\newblock {\em Bioinformatics}, 21:3439--3440, 2005.
+
+\bibitem{TxDb.knownGene}
+Marc Carlson and Bioconductor~Package Maintainer.
+\newblock {\em TxDb.Hsapiens.UCSC.hg19.knownGene: Annotation package for TxDb
+  object(s)}, 2015.
+
+\bibitem{plotly}
+Carson Sievert, Chris Parmer, Toby Hocking, Scott Chamberlain, Karthik Ram,
+  Marianne Corvellec, and Pedro Despouy.
+\newblock {\em plotly: Create Interactive Web Graphics via 'plotly.js'}, 2017.
+
+\bibitem{dplyr}
+Hadley Wickham, Romain Francois, Lionel Henry, and Kirill Müller.
+\newblock {\em dplyr: A Grammar of Data Manipulation}, 2017.
+
+\bibitem{knitr}
+Yihui Xie.
+\newblock {\em knitr: A General-Purpose Package for Dynamic Report Generation
+  in R}, 2017.
+
+\bibitem{rmarkdown}
+JJ~Allaire, Yihui Xie, Jonathan McPherson, Javier Luraschi, Kevin Ushey, Aron
+  Atkins, Hadley Wickham, Joe Cheng, and Winston Chang.
+\newblock {\em rmarkdown: Dynamic Documents for R}, 2017.
+
+\bibitem{S4Vectors}
+H.~Pagès, M.~Lawrence, and P.~Aboyoun.
+\newblock {\em S4Vectors: S4 implementation of vector-like and list-like
+  objects}, 2017.
+
+\bibitem{scales}
+Hadley Wickham.
+\newblock {\em scales: Scale Functions for Visualization}, 2017.
+
+\end{thebibliography}
