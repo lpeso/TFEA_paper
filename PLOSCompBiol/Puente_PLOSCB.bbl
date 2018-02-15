@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{Wasserman}
 Wasserman W, Sandelin A.
@@ -44,6 +44,25 @@ Lambert SA, Jolma A, Campitelli LF, Das PK, Yin Y, Albu M, et~al.
 \newblock Cell. 2018;172(4):650--665.
 \newblock doi:{10.1016/j.cell.2018.01.029}.
 
+\bibitem{EncodeDHS1}
+John S, et~al.
+\newblock Chromatin accessibility pre-determines glucocorticoid receptor
+  binding patterns.
+\newblock Nature Genetics. 2011;43:264--268.
+\newblock doi:{10.1038/ng.759}.
+
+\bibitem{EncodeDHS2}
+Thurman RE, et~al.
+\newblock The accessible chromatin landscape of the human genome.
+\newblock Nature. 2012;489:75--82.
+\newblock doi:{10.1038/nature11232}.
+
+\bibitem{KnownGene}
+Hsu F, Kent WJ, Clawson H, Kuhn RM, Diekhans M, Haussler D.
+\newblock The UCSC Known Genes.
+\newblock Bioinformatics. 2006;22(9):1036--1046.
+\newblock doi:{10.1093/bioinformatics/btl048}.
+
 \bibitem{GSEA1}
 Subramanian A, Tamayo P, et~al.
 \newblock Gene set enrichment analysis: {A} knowledge-based approach for
@@ -51,11 +70,12 @@ Subramanian A, Tamayo P, et~al.
 \newblock PNAS. 2005;102(43):15545--15550.
 \newblock doi:{10.1073/pnas.0506580102}.
 
-\bibitem{GSEA2}
-Mootha VK, et~al.
-\newblock {PGC}-1alpha-responsive genes involved in oxidative phosphorylation
-  are coordinately downregulated in human diabetes.
-\newblock Nature Genetics. 2003;34:267--273.
-\newblock doi:{10.1038/ng1180}.
+\bibitem{Tiana2018a}
+Tiana M, Acosta-Iborra B, Puente-Santamar{\'{i}}a L, Hernansanz-Agustin P,
+  Worsley-Hunt R, Masson N, et~al.
+\newblock {The SIN3A histone deacetylase complex is required for a complete
+  transcriptional response to hypoxia}.
+\newblock Nucleic Acids Research. 2018;46(1):120--133.
+\newblock doi:{10.1093/nar/gkx951}.
 
 \end{thebibliography}
