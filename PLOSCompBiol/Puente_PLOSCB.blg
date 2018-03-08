@@ -1,98 +1,58 @@
-This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Puente_PLOSCB.aux
 The style file: plos2015.bst
 Database file #1: borrador_paper.bib
 Database file #2: MyBibliography.bib
-Repeated entry---line 21 of file MyBibliography.bib
- : @article{EncodeDHS1
- :                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 30 of file MyBibliography.bib
- : @article{GEO2
- :              ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 49 of file MyBibliography.bib
- : @article{KnownGene
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 90 of file MyBibliography.bib
- : @article{GEO1
- :              ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 109 of file MyBibliography.bib
- : @article{TFcensus
- :                  ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 189 of file MyBibliography.bib
- : @article{Kwon2012
- :                  ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 237 of file MyBibliography.bib
+Repeated entry---line 1 of file MyBibliography.bib
  : @article{EncodeDHS2
  :                    ,
 I'm skipping whatever remains of this entry
-Reallocated buffer (elt_size=1) to 40000 items from 20000.
-Reallocated sv_buffer (elt_size=1) to 40000 items from 20000.
-Reallocated ex_buf (elt_size=1) to 40000 items from 20000.
-Reallocated out_buf (elt_size=1) to 40000 items from 20000.
-Reallocated name_tok (elt_size=4) to 40000 items from 20000.
-Reallocated name_sep_char (elt_size=1) to 40000 items from 20000.
-Reallocated buffer (elt_size=1) to 60000 items from 40000.
-Reallocated sv_buffer (elt_size=1) to 60000 items from 40000.
-Reallocated ex_buf (elt_size=1) to 60000 items from 40000.
-Reallocated out_buf (elt_size=1) to 60000 items from 40000.
-Reallocated name_tok (elt_size=4) to 60000 items from 40000.
-Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
-Reallocated buffer (elt_size=1) to 80000 items from 60000.
-Reallocated sv_buffer (elt_size=1) to 80000 items from 60000.
-Reallocated ex_buf (elt_size=1) to 80000 items from 60000.
-Reallocated out_buf (elt_size=1) to 80000 items from 60000.
-Reallocated name_tok (elt_size=4) to 80000 items from 60000.
-Reallocated name_sep_char (elt_size=1) to 80000 items from 60000.
+Warning--I didn't find a database entry for "Lambert2018"
+Warning--I didn't find a database entry for "Tiana2018a"
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 12 entries,
+You've used 11 entries,
             3058 wiz_defined-function locations,
-            727 strings with 6972 characters,
-and the built_in function-call counts, 22501 in all, are:
-= -- 2856
-> -- 172
+            722 strings with 6718 characters,
+and the built_in function-call counts, 19684 in all, are:
+= -- 2493
+> -- 144
 < -- 0
-+ -- 99
-- -- 43
-* -- 1921
-:= -- 2501
-add.period$ -- 59
-call.type$ -- 12
++ -- 86
+- -- 36
+* -- 1675
+:= -- 2201
+add.period$ -- 54
+call.type$ -- 11
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 12
-duplicate$ -- 1759
-empty$ -- 2135
-format.name$ -- 54
-if$ -- 5225
+cite$ -- 11
+duplicate$ -- 1516
+empty$ -- 1874
+format.name$ -- 46
+if$ -- 4570
 int.to.chr$ -- 0
-int.to.str$ -- 12
-missing$ -- 115
-newline$ -- 74
-num.names$ -- 12
-pop$ -- 161
+int.to.str$ -- 11
+missing$ -- 102
+newline$ -- 68
+num.names$ -- 11
+pop$ -- 146
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 183
+skip$ -- 160
 stack$ -- 0
-substring$ -- 4529
-swap$ -- 278
+substring$ -- 3962
+swap$ -- 246
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 118
-width$ -- 14
-write$ -- 156
-(There were 7 error messages)
+while$ -- 104
+width$ -- 13
+write$ -- 143
+(There was 1 error message)

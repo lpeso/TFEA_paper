@@ -38,11 +38,19 @@ Vaquerizas JM, Kummerfeld SK, Teichmann SA, Luscombe NM.
 \newblock Nature Reviews Genetics. 2009;10:252--263.
 \newblock doi:{10.1038/nrg2538}.
 
-\bibitem{Lambert2018}
-Lambert SA, Jolma A, Campitelli LF, Das PK, Yin Y, Albu M, et~al.
-\newblock {The Human Transcription Factors}.
-\newblock Cell. 2018;172(4):650--665.
-\newblock doi:{10.1016/j.cell.2018.01.029}.
+\bibitem{Mifsud2015}
+Mifsud B, Tavares-Cadete F, Young AN, Sugar R, Schoenfelder S, Ferreira L,
+  et~al.
+\newblock {Mapping long-range promoter contacts in human cells with
+  high-resolution capture Hi-C}.
+\newblock Nature Genetics. 2015;47(6):598--606.
+\newblock doi:{10.1038/ng.3286}.
+
+\bibitem{EncodeDHS2}
+Thurman RE, et~al.
+\newblock The accessible chromatin landscape of the human genome.
+\newblock Nature. 2012;489:75--82.
+\newblock doi:{10.1038/nature11232}.
 
 \bibitem{EncodeDHS1}
 John S, et~al.
@@ -50,12 +58,6 @@ John S, et~al.
   binding patterns.
 \newblock Nature Genetics. 2011;43:264--268.
 \newblock doi:{10.1038/ng.759}.
-
-\bibitem{EncodeDHS2}
-Thurman RE, et~al.
-\newblock The accessible chromatin landscape of the human genome.
-\newblock Nature. 2012;489:75--82.
-\newblock doi:{10.1038/nature11232}.
 
 \bibitem{KnownGene}
 Hsu F, Kent WJ, Clawson H, Kuhn RM, Diekhans M, Haussler D.
@@ -69,13 +71,5 @@ Subramanian A, Tamayo P, et~al.
   interpreting genome-wide expression profiles.
 \newblock PNAS. 2005;102(43):15545--15550.
 \newblock doi:{10.1073/pnas.0506580102}.
-
-\bibitem{Tiana2018a}
-Tiana M, Acosta-Iborra B, Puente-Santamar{\'{i}}a L, Hernansanz-Agustin P,
-  Worsley-Hunt R, Masson N, et~al.
-\newblock {The SIN3A histone deacetylase complex is required for a complete
-  transcriptional response to hypoxia}.
-\newblock Nucleic Acids Research. 2018;46(1):120--133.
-\newblock doi:{10.1093/nar/gkx951}.
 
 \end{thebibliography}
