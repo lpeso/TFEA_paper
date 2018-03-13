@@ -4,55 +4,96 @@ The top-level auxiliary file: Puente_PLOSCB.aux
 The style file: plos2015.bst
 Database file #1: borrador_paper.bib
 Database file #2: MyBibliography.bib
-Repeated entry---line 1 of file MyBibliography.bib
+Repeated entry---line 463 of file MyBibliography.bib
+ : @article{TFcensus
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1469 of file MyBibliography.bib
+ : @article{EncodeDHS1
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4042 of file MyBibliography.bib
+ : @article{Kwon2012
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6987 of file MyBibliography.bib
+ : @article{KnownGene
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7972 of file MyBibliography.bib
  : @article{EncodeDHS2
  :                    ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Lambert2018"
-Warning--I didn't find a database entry for "Tiana2018a"
+Repeated entry---line 9824 of file MyBibliography.bib
+ : @article{GEO2
+ :              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10424 of file MyBibliography.bib
+ : @article{GEO1
+ :              ,
+I'm skipping whatever remains of this entry
+Reallocated buffer (elt_size=1) to 40000 items from 20000.
+Reallocated sv_buffer (elt_size=1) to 40000 items from 20000.
+Reallocated ex_buf (elt_size=1) to 40000 items from 20000.
+Reallocated out_buf (elt_size=1) to 40000 items from 20000.
+Reallocated name_tok (elt_size=4) to 40000 items from 20000.
+Reallocated name_sep_char (elt_size=1) to 40000 items from 20000.
+Reallocated buffer (elt_size=1) to 60000 items from 40000.
+Reallocated sv_buffer (elt_size=1) to 60000 items from 40000.
+Reallocated ex_buf (elt_size=1) to 60000 items from 40000.
+Reallocated out_buf (elt_size=1) to 60000 items from 40000.
+Reallocated name_tok (elt_size=4) to 60000 items from 40000.
+Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
+Reallocated buffer (elt_size=1) to 80000 items from 60000.
+Reallocated sv_buffer (elt_size=1) to 80000 items from 60000.
+Reallocated ex_buf (elt_size=1) to 80000 items from 60000.
+Reallocated out_buf (elt_size=1) to 80000 items from 60000.
+Reallocated name_tok (elt_size=4) to 80000 items from 60000.
+Reallocated name_sep_char (elt_size=1) to 80000 items from 60000.
+Warning--I didn't find a database entry for "Thurman2012"
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 11 entries,
+You've used 15 entries,
             3058 wiz_defined-function locations,
-            722 strings with 6718 characters,
-and the built_in function-call counts, 19684 in all, are:
-= -- 2493
-> -- 144
+            761 strings with 8359 characters,
+and the built_in function-call counts, 30535 in all, are:
+= -- 3837
+> -- 228
 < -- 0
-+ -- 86
-- -- 36
-* -- 1675
-:= -- 2201
-add.period$ -- 54
-call.type$ -- 11
++ -- 135
+- -- 57
+* -- 2662
+:= -- 3386
+add.period$ -- 74
+call.type$ -- 15
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 11
-duplicate$ -- 1516
-empty$ -- 1874
-format.name$ -- 46
-if$ -- 4570
+cite$ -- 15
+duplicate$ -- 2226
+empty$ -- 2928
+format.name$ -- 71
+if$ -- 7066
 int.to.chr$ -- 0
-int.to.str$ -- 11
-missing$ -- 102
-newline$ -- 68
-num.names$ -- 11
-pop$ -- 146
+int.to.str$ -- 15
+missing$ -- 147
+newline$ -- 92
+num.names$ -- 15
+pop$ -- 204
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 160
+skip$ -- 235
 stack$ -- 0
-substring$ -- 3962
-swap$ -- 246
+substring$ -- 6402
+swap$ -- 360
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 104
-width$ -- 13
-write$ -- 143
-(There was 1 error message)
+while$ -- 152
+width$ -- 17
+write$ -- 195
+(There were 7 error messages)
